@@ -1,56 +1,42 @@
-<!DOCTYPE html>
-<html>
-	<!-----CSS----->
-<style>
-body { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAQklEQVR4nGP4/fsWVvTx4wWsiFT1DKMWjFowBCyglkG41I9aMGrBULCAWgbhUj9qwagFQ8ECahmES/2oBaMWDAELALoUBKa/GG8MAAAAAElFTkSuQmCC");}
-</style>
-    <head>
-        <meta charset="utf-8">
-        <title>Gallery</title>
-        <link rel="stylesheet" href="css/gallery.css" type="text/css" media="screen" />
-        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Ubuntu:300">
-        <link  href="css/viewer.min.css" rel="stylesheet">
-        <script src="js/viewer.min.js"></script> 
-    </head>        
-    <body>
-    	<!-----nvi----->
-    <tbody>              
+    </head><br>
+    
+	<!-----body----->
+    <body>		
+    
+    <!-----title----->     
+    <h1><big><center>ASSET001</center></big></h1>
+    
+    <!-----ギャラリー----->
+    <tbody> <center>             
 	<table 
-		border="3" 
-		width="100%"
-		height="100%"
-		border align="bottom"
-		bgcolor="#f9f9a9">
-	<tr>
-<td style="width: 5%;">
-            <a href="../index.html">
-            <input type="image"src="
-data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABwElEQVR4nO2YrU4DQRRGv/BjSSCp5Q2QJEgS3oKQIFA4XgGBwPUB8EgECoHBo8FiCBIDpqEfggxZKhqyM7NnJrPiyG7OPWm3c0e21TK4AA0uQIML0OACNLgADS5AgwvQ4AI0uAANLkCDC9DkeajkRehBBwsQBj6zfGB52yvtBAjDX7nBAGH4BzcYIAz/9tVggDD87HV5gJQUE+BX6H55gHVvWN6xfGj53PK15Udr9m69zK07W1Nbp7b27bWJPVm192Qfy76UfSv7SfPkEeKHnw4b4EOfSSP0HlySfcIEmOs5WYReAbylHzswgHWTJELVAayL6AjV/gRCAOsoKkL/rw74ElwMYO0OH+BPhEIC9IkQFaAbIedB6D8BrE0mQDdCjqNweHbRAbqiOXaB8OyiA3RFcyxD4dlFB+iK5tgGqwjQjZB6g6smQC7GAGOAMcAYoNkA1ZwDcg5f/Ekw5/DF7gKxm17V22DT9wHN3whJGu8ESwgQu2xVHSDFplltgFRrdlQA6iWY9I4h6sPA32DK4aMDdCMMSarhkwSoHVyABhegwQVocAEaXIAGF6DBBWhwARpcgAYXoMEFaHABGlyA5hsTRd0D7irhaQAAAABJRU5ErkJggg==
-"></a>
-<br>
-            </td>
-<td style="width: 5%;">
-            <center>
-            <h1 id="gallery_title">Albums</h1>
-            </td>
-            </center>
-            </tr>
-        </table>
-    </tbody>
-    	<!-----ギャラリー----->
-    <ul id="album">
-    <center><br><br>
-        <li><img src="img/1.jpg"></li><br>
-        <li><img src="img/2.jpg"></li><br>
-        <li><img src="img/3.jpg"></li><br>
-        <li><img src="img/4.jpg"></li><br>
-        <li><img src="img/5.jpg"></li><br>
-        <li><img src="img/6.jpg"></li><br>
-        </center>
-    </ul>
+		border="0" 
+		width="0"
+		height="0"
+		border align="bottom">
+
+	<tr>	
+	<td width="20%" height="100%"><center><a href="">AD</a></center></td>
+	<td width="60%" height="100%">
+	<br><ul id="album">
+	<center><img src="album/1.jpg"></center>
+	<br></ul>	
+	</td>	
+	<td width="20%" height="100%"><center><a href="">AD</a></center></td>
+	</tr>
+
+    </table>	</center>
+        </tbody>
+        
+		<!-----スクリプト----->
     <script>
-        var viewer = new Viewer(document.getElementById('album'));
+        var viewer = new Viewer(document.getElementById('album')); //任意でid名を指定
     </script>
+    
+    	<!-----download----->
+    <b><big><center><font face="sans-serif">ここから、download</big></b><br>
+    
+    	<!-----フッター----->
+    <br>
     <big><center><a href="../index.html">TOP</a></center></big>
     </body>
 </html>
