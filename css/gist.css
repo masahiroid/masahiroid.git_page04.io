@@ -1,0 +1,20 @@
+/*gist表示サイズ変更*/
+.gist iframe.render-viewer {
+height: 700px !important;
+width: 1000px !important;
+}
+
+/**コード表示ボックス偶数行の背景色を変更**/
+table.highlight tr:nth-child(2n) td {
+	background: #cefcea;
+}
+
+/*Gist_奇数行に色付け*/
+table.highlight tr:nth-child(2n+1) td {
+	background: #a3f4d4;
+}
+
+/*Gist_メタ部分の背景色*/
+.gist-meta{
+    background:#ced7fc!important;
+}
