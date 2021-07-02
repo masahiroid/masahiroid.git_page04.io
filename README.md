@@ -1,9 +1,12 @@
 <h2>欧米のsns</h2>
 
+<h2>世界のsns</h2>
+
 |名前|フリガナ|アドレス|
 |--|--|--|
 |face_book|フェイスブック|><a href="https://www.facebook.com/">facebookへアクセス</a>|
 |instagram|インスタグラム|><a href="https://www.instagram.com/">instagramへアクセス</a>|
+|vero|ヴェロ|><a href="https://vero.co/">veroへアクセス</a>|
 |twitter|ツイッター|><a href="https://twitter.com/">twitterへアクセス</a>|
 |pinterest|ピンタレスト|><a href="https://www.pinterest.jp/">pinterestへアクセス</a>|
 |twitch|ツイッチ|><a href="https://www.twitch.tv/twitchjp/">twitchへアクセス</a>|
@@ -16,8 +19,8 @@
 
 |名前|フリガナ|アドレス|
 |--|--|--| 
-|hatena_blog|はてなブログ|><a href="https://hatenablog.com">hatenablogへアクセス</a>|
-|rakuten_blog|楽天ブログ|><a href="https://plaza.rakuten.co.jp/">楽天ブログへアクセス</a>|
+|hatena_blog|ハテナブログ|><a href="https://hatenablog.com">hatenablogへアクセス</a>|
+|rakuten_blog|ラクテンブログ|><a href="https://plaza.rakuten.co.jp/">楽天ブログへアクセス</a>|
 |livedoor_blog|ライブドアブログ|><a href="https://blog.livedoor.com/">livedoorへアクセス</a>|
 |mixi_blog|ミクシィブログ|><a href="https://mixi.jp/">mixiへアクセス</a>|
 |note|ノート|><a href="https://note.com/">noteへアクセス</a>|
@@ -57,6 +60,6 @@
 
 |名前|フリガナ|アドレス|
 |--|--|--| 
-|simple_note|シンプルノート|><a href="https://simplenote.com/">evernoteへアクセス</a>|
+|simple_note|シンプルノート|><a href="https://simplenote.com/">simplenoteへアクセス</a>|
 |ever_note|エバーノート|><a href="https://evernote.com/intl/jp">evernoteへアクセス</a>|
 |notion|ノーション|><a href="https://www.notion.so/">notionへアクセス</a>|
